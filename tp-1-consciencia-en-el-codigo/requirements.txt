@@ -1,0 +1,2 @@
+codecarbon==2.6.0
+PythonTurtle==0.3.2
